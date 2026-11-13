@@ -1,0 +1,4 @@
+﻿# Username;Password;FullName;Role;IsLocked;FailedAttempts
+admin;admin123;Quản trị viên hệ thống;Admin;False;0
+staff;staff123;Nguyễn Văn Bán Vé;Staff;False;0
+thungan;thungan123;Trần Thị Thu Ngân;Staff;False;0

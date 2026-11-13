@@ -1,0 +1,9 @@
+﻿# Ma;MaSuat;Ghe;LoaiVe;GiaBan;NgayBan;ComboDetails
+VE001;SC01;A1;Người lớn;80000;2026-11-13 08:15;Combo Solo: 1
+VE002;SC01;A2;Người lớn;80000;2026-11-13 08:15;Combo Solo: 1
+VE003;SC01;C3;Người lớn;95000;2026-11-13 08:20;
+VE004;SC01;C4;Học sinh - Sinh viên;76000;2026-11-13 08:22;
+VE005;SC02;B3;Người lớn;85000;2026-11-13 09:10;Combo Couple: 1
+VE006;SC02;B4;Người lớn;85000;2026-11-13 09:10;Combo Couple: 1
+VE007;SC03;D5;Người lớn;105000;2026-11-13 09:20;
+VE008;SC03;D6;Học sinh - Sinh viên;84000;2026-11-13 09:20;

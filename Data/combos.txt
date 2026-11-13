@@ -1,0 +1,4 @@
+﻿# Ma;Ten;Gia;MoTa
+CB01;Combo Solo (1 Bắp + 1 Nước);50000;1 Bắp ngọt vừa + 1 Nước ngọt 22oz
+CB02;Combo Couple (1 Bắp Lớn + 2 Nước);80000;1 Bắp lớn 2 vị + 2 Nước ngọt 32oz
+CB03;Combo Party (2 Bắp + 4 Nước + 1 Snack);150000;2 Bắp khổng lồ + 4 Nước + 1 Khoai tây chiên

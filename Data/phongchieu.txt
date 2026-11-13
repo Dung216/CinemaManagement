@@ -1,0 +1,6 @@
+﻿# Ma;Ten;SoHang;SoGheMoiHang;HangVIP
+PC01;Phòng Chiếu 1 (Standard);6;8;C,D
+PC02;Phòng Chiếu 2 (IMAX);7;10;D,E
+PC03;Phòng Chiếu 3 (Gold Class VIP);5;8;B,C,D
+PC04;Phòng Chiếu 4 (Standard);6;8;C,D
+PC05;Phòng Chiếu 5 (3D Digital);8;10;D,E,F

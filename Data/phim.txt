@@ -1,0 +1,26 @@
+﻿# Ma;Ten;TheLoai;ThoiLuong;GioiHanTuoi;Poster
+P01;Mai;Tâm lý, Tình cảm;131;T18;mai.jpg
+P02;Đào, Phở và Piano;Lịch sử, Chiến tranh;100;T13;dao_pho_piano.jpg
+P03;Lật Mặt 7: Một Điều Ước;Gia đình, Tâm lý;138;K;lat_mat_7.jpg
+P04;Dune: Part Two;Khoa học viễn tưởng;166;T16;dune_2.jpg
+P05;Godzilla x Kong: The New Empire;Hành động, Viễn tưởng;115;K;godzilla_kong.jpg
+P06;Kung Fu Panda 4;Hoạt hình, Hài hước;94;P;kungfu_panda_4.jpg
+P07;Deadpool & Wolverine;Hành động, Siêu anh hùng;127;T18;deadpool_wolverine.jpg
+P08;Inside Out 2;Hoạt hình, Gia đình;96;P;inside_out_2.jpg
+P09;Kẻ Trộm Mặt Trời;Hành động, Kịch tính;110;T16;ke_trom_mat_troi.jpg
+P10;Thám Tử Lừng Danh Conan: Ngôi Sao 5 Cánh;Hoạt hình, Trinh thám;110;K;conan_27.jpg
+P11;Doraemon: Bản Giao Hưởng Địa Cầu;Hoạt hình, Phiêu lưu;115;P;doraemon_symphony.jpg
+P12;Oppenheimer;Lịch sử, Tiểu sử;180;T18;oppenheimer.jpg
+P13;Interstellar;Khoa học viễn tưởng;169;T13;interstellar.jpg
+P14;Avengers: Endgame;Hành động, Viễn tưởng;181;T13;avengers_endgame.jpg
+P15;Spider-Man: No Way Home;Hành động, Phiêu lưu;148;T13;spiderman_nwh.jpg
+P16;Avatar: The Way of Water;Khoa học viễn tưởng;192;T13;avatar_2.jpg
+P17;Nhà Bà Nữ;Tâm lý, Gia đình;102;T16;nha_ba_nu.jpg
+P18;Bố Già;Gia đình, Hài hước;128;P;bo_gia.jpg
+P19;Mắt Biếc;Tình cảm, Lãng mạn;117;T16;mat_biec.jpg
+P20;Tôi Thấy Hoa Vàng Trên Cỏ Xanh;Tâm lý, Tuổi thơ;103;P;hoa_vang_co_xanh.jpg
+P21;Em Chưa 18;Hài, Lãng mạn;95;T16;em_chua_18.jpg
+P22;Hai Phượng;Hành động;98;T18;hai_phuong.jpg
+P23;Gặp Lại Chị Bầu;Hài, Tình cảm;114;T13;gap_lai_chi_bau.jpg
+P24;Cám;Kinh dị;122;T18;cam.jpg
+P25;Ma Da;Kinh dị, Hồi hộp;96;T16;ma_da.jpg
